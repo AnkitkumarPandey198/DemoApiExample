@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoAPI</string>
+    <string name="first_name">First Name:</string>
+    <string name="roles">Roles:</string>
+    <string name="email">Email:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="created_at">Created At:</string>
+    <string name="server_value">Server Value</string>
+    <string name="user_details"><u>User Details</u>:-</string>
+    <string name="dashboard_data"><u>Dashboard Data</u>:-</string>
+    <string name="asset_count_by_status"><u>Asset Count By Status</u>:-</string>
+    <string name="available_assets_count">Available Assets Count:</string>
+    <string name="checkout_assets_count">Checkout Assets Count:</string>
+    <string name="disposed_assets_count">Disposed Assets Count:</string>
+    <string name="lost_assets_count">Lost Assets Count:</string>
+</resources>
